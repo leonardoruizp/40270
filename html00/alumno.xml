@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumno>
+        <nombre>Leo</nombre>
+        <nacimiento>31/enero/2005</nacimiento>
+    </alumno>
+    <alumno>
+        <nombre>Rubén</nombre>
+        <nacimiento>17/septiembre/2005</nacimiento>
+    </alumno>
+    <alumno>
+        <nombre>Luis</nombre>
+        <nacimiento>28/diciembre/2005</nacimiento>
+    </alumno>
+    <alumno>
+        <nombre>Daniela</nombre>
+        <nacimiento>13/agosto/2005</nacimiento>
+    </alumno>
+</alumnos>
